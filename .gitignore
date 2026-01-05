@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Data (don’t upload private data by accident)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Secrets
+.env
